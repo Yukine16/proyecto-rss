@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 10%;
+}
+
+section{
+    display: flex;
+    flex-flow:row;
+    align-items: center;
+}
+
+article{
+    margin-top: 10%;
+    border: 2px solid black;
+    border-radius: 5%;
+    padding: 1%;
+    margin-left: 20%;
+}
+
+.valid{
+    margin-bottom: 15%;
+}
+
+
