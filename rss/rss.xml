@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../css/estilos-rss.css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tarea RSS</title>
+        <atom:link href="https://yukine16.github.io/Web/proyecto-rss/rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <link>https://yukine16.github.io/Web/</link>
+        <description>Pagina de la tarea</description>
+		 <language>es</language>
+         <image>
+            <title>Tarea RSS</title>
+            <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVN0uQrYj5Kxy7G6lOluWLjjyLUMDIBKAjA&#38;usqp=CAU</url>
+            <link>https://yukine16.github.io/Web/</link>
+            <width>90</width>
+            <height>40</height>
+        </image>
+
+        <item>
+            <title>Presentacion del camping</title>
+            <link>https://yukine16.github.io/Web/index.html</link>
+            <guid>https://yukine16.github.io/Web/index.html</guid>
+            <description>Muestra la informacion del camping</description>
+        </item>
+
+        <item>
+            <title>Alojamiento y actividades del camping</title>
+            <link>https://yukine16.github.io/Web/html/galeria.html</link>
+            <guid>https://yukine16.github.io/Web/html/galeria.html</guid>
+            <description>Muestra informacion de las habitaciones del camping y las respectivas actividades del mismo</description>
+        </item>
+
+        <item>
+            <title>Precios del camping</title>
+            <link>https://yukine16.github.io/Web/html/precios.html</link>
+            <guid>https://yukine16.github.io/Web/html/precios.html</guid>
+            <description>Muestra una tabla con los precios disponibles por persona y habitacion</description>
+        </item>
+        </channel>
+
+</rss>
